@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "@ai-sdk/openai": "^1.1.13",
+    "ai": "^4.1.45",
+    "dotenv": "^16.4.7",
+    "firebase": "^11.5.0",
+    "openai": "^4.89.1",
+    "socket.io": "^4.8.1",
+    "socket.io-client": "^4.8.1"
+  }
+}
